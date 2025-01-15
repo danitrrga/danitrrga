@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">I am a student passionate about physics and coding</h3>
 
+- 🔭 I’m currently learning the basics of coding
 - 🌱 I’m currently learning app developement **cs50**
+- 🎈 Creating Ctrl. app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
