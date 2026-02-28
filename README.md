@@ -15,8 +15,8 @@
     <img src="https://i.postimg.cc/1583wVQ5/black-webpage-icon-round-danitrrga.png" alt="Website" height="35" width="35" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/@danitrrga" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@danitrrga" height="35" width="45" />
+  <a href="https://instagram.com/danitrrga" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danitrrga" height="35" width="45" />
   </a>
 </p>
 
