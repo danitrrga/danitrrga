@@ -5,7 +5,7 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **[EL PORTAL](el-portal-os.vercel.app)**
-- 🌱 I’m currently studying Applied Physics at the TU/e in Eindhoven.
+- 🌱 Studying Applied Physics at the TU/e in Eindhoven.
 - 💡 I love combining **mathematics, physics, and code** to solve complex problems and build cool projects.
 - 🌐 Check out my latest work and full portfolio at **[danitrrga.vercel.app](https://danitrrga.vercel.app)**.
 ### 📫 Connect with me:
