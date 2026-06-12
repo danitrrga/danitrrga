@@ -1,49 +1,60 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A student passionate about Math, Physics, and Software Engineering</h3>
+<h1 align="center">Daniel Tárraga</h1>
+<p align="center">
+  <strong>Applied Physics Student @ TU/e Eindhoven & Systems Builder</strong>
+</p>
 
-
-### 🚀 About Me
-
-- 🔭 I’m currently working on **[EL PORTAL](https://el-portal-os.vercel.app)**
-- 🌱 Studying Applied Physics at the TU/e in Eindhoven.
-- 💡 I love combining **mathematics, physics, and code** to solve complex problems and build cool projects.
-- 🌐 Check out my latest work and full portfolio at **[danitrrga.vercel.app](https://danitrrga.vercel.app)**.
-### 📫 Connect with me:
-
-<p align="left">
+<p align="center">
   <a href="https://danitrrga.vercel.app" target="_blank">
-    <img src="https://i.postimg.cc/1583wVQ5/black-webpage-icon-round-danitrrga.png" alt="Website" height="35" width="35" />
+    <img src="https://img.shields.io/badge/danitrrga.vercel.app-12161A?style=flat-square&logo=googlechrome&logoColor=4487D6" alt="Website" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/danitrrga" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danitrrga" height="35" width="45" />
+    <img src="https://img.shields.io/badge/@danitrrga-12161A?style=flat-square&logo=instagram&logoColor=4487D6" alt="Instagram" />
   </a>
 </p>
 
-### 🛠️ Languages and Tools:
+---
+
+### 🚀 About
+
+Studying Applied Physics at the Eindhoven University of Technology (TU/e). I design and build systems merging mathematics, physics, and code, focusing on local-first productivity tools and clean digital workspaces.
+
+---
+
+### 🛠️ Core Projects
+
+* **[El Portal](https://el-portal-os.vercel.app)** — A personal life dashboard and system controller for digital workflow.
+  `Next.js` `Supabase` `Vercel`
+* **[Vox](https://github.com/danitrrga/vox)** — A lightweight, local Speech-to-Text desktop client.
+  `Tauri` `Rust` `Python`
+* **[nightguard-control](https://github.com/danitrrga/nightguard-control)** — Self-binding hardware-level curfew manager designed to protect sleep hygiene.
+  `Tauri` `Rust` `PowerShell`
+
+---
+
+### 🧰 Tech Stack
+
+* **Computation:** 
+  <img src="https://img.shields.io/badge/Python-12161A?style=flat-square&logo=python&logoColor=4487D6" />
+  <img src="https://img.shields.io/badge/Pandas-12161A?style=flat-square&logo=pandas&logoColor=4487D6" />
+  <img src="https://img.shields.io/badge/TensorFlow-12161A?style=flat-square&logo=tensorflow&logoColor=4487D6" />
+* **Systems:** 
+  <img src="https://img.shields.io/badge/C-12161A?style=flat-square&logo=c&logoColor=4487D6" />
+  <img src="https://img.shields.io/badge/C%2B%2B-12161A?style=flat-square&logo=cplusplus&logoColor=4487D6" />
+  <img src="https://img.shields.io/badge/Rust-12161A?style=flat-square&logo=rust&logoColor=4487D6" />
+  <img src="https://img.shields.io/badge/PowerShell-12161A?style=flat-square&logo=powershell&logoColor=4487D6" />
+* **Frontend & Design:** 
+  <img src="https://img.shields.io/badge/Next.js-12161A?style=flat-square&logo=nextdotjs&logoColor=4487D6" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-12161A?style=flat-square&logo=tailwindcss&logoColor=4487D6" />
+  <img src="https://img.shields.io/badge/Figma-12161A?style=flat-square&logo=figma&logoColor=4487D6" />
+  <img src="https://img.shields.io/badge/Blender-12161A?style=flat-square&logo=blender&logoColor=4487D6" />
+
+---
+
+### 📊 Performance
 
 <p align="left">
-  <!-- C & C++ -->
-  <a href="https://en.cppreference.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://en.cppreference.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  
-  <!-- Python, Pandas, TensorFlow -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
-  
-  <!-- Web Dev -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  
-  <!-- Design & 3D -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/></a>
-</p>
-
-### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=danitrrga&show_icons=true&theme=radical&hide_border=true" alt="danitrrga's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danitrrga&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danitrrga&show_icons=true&bg_color=050607&title_color=4487D6&text_color=F4F0E6&icon_color=4487D6&border_color=12161A&hide_border=false" alt="Daniel's GitHub stats" height="150" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danitrrga&layout=compact&bg_color=050607&title_color=4487D6&text_color=F4F0E6&icon_color=4487D6&border_color=12161A&hide_border=false" alt="Top Languages" height="150" />
 </p>
