@@ -1,6 +1,6 @@
 <h1 align="center">Daniel Tárraga</h1>
 <p align="center">
-  <strong>Applied Physics Student @ TU/e Eindhoven & Systems Builder</strong>
+  <strong>Applied Physics Student at TU/e Eindhoven & Entrepeneur</strong>
 </p>
 
 <p align="center">
