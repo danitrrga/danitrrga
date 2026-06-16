@@ -25,7 +25,7 @@ Studying Applied Physics at the Eindhoven University of Technology (TU/e). I des
 
 * **[El Portal](https://el-portal-os.vercel.app)** — A personal life dashboard and system controller for digital workflow.
   `Next.js` `Supabase` `Vercel`
-* **[Vox](https://github.com/danitrrga/vox)** — A lightweight, local Speech-to-Text desktop client.
+* **[Vox](https://github.com/danitrrga/vox-stt)** — A lightweight, local Speech-to-Text desktop client.
   `Tauri` `Rust` `Python`
 * **[nightguard-control](https://github.com/danitrrga/nightguard-control)** — Self-binding hardware-level curfew manager designed to protect sleep hygiene.
   `Tauri` `Rust` `PowerShell`
